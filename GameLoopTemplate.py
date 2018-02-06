@@ -21,7 +21,7 @@ while not crashed:
 		if event.type == pygame.QUIT:
 			crashed = True
 		
-		
+#Hi Guys		
 		
 	pygame.display.update()
 	clock.tick(60)
