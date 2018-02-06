@@ -42,7 +42,7 @@ def message_display(text):
 def crash():
 	message_display('You Crashed')
 	#time.sleep(2)
-	
+	pygame.time.delay(2000)
 	game_loop()
 	
 
