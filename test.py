@@ -1,8 +1,9 @@
 import turtle
 import os
 
+#hahaha
 
-#set up screen
+#set up scree
 screen = turtle.Screen()
 screen.bgcolor("black")
 screen.title("Space Invaders")
